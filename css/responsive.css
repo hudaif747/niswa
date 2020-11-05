@@ -1,0 +1,64 @@
+@media only screen and (max-width : 767px) {
+    .hero-text {
+        zoom: 0.7;
+        -moz-transform: scale(0.5);
+        margin-top: 5em;
+    }
+
+    .bgimage {
+        height: 710px;
+    }
+
+    .round {
+        margin-left: 350px;
+    }
+
+    .text-box {
+        text-align: center;
+
+    }
+
+    .textonpic p {
+        font-size: 2em;
+        width: 100%;
+    }
+
+    .input-group-prepend .col-sm-2 {
+        width: 5em;
+    }
+
+
+    .parallax {
+        min-height: 300px;
+    }
+
+    /* test */
+
+
+    .cta-android {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .cta-ios {
+        text-align: center;
+        margin: 10px;
+
+    }
+
+}
+
+@media only screen and (max-width : 991px) {
+    .cta-android {
+        text-align: center;
+        margin: 10px;
+
+    }
+
+    .cta-ios {
+        text-align: center;
+        margin: 10px;
+
+    }
+
+}

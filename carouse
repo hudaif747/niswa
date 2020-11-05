@@ -1,0 +1,123 @@
+<section id="carouse">
+        <!--Carousel Wrapper-->
+        <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
+
+            <!--Controls-->
+            <div class="controls-top">
+                <a class="btn-floating" href="#multi-item-example" data-slide="prev"><i
+                        class="fas fa-chevron-left"></i></a>
+                <a class="btn-floating" href="#multi-item-example" data-slide="next"><i
+                        class="fas fa-chevron-right"></i></a>
+            </div>
+            <!--/.Controls-->
+
+            <!--Indicators-->
+            <!-- <ol class="carousel-indicators">
+                <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+                <li data-target="#multi-item-example" data-slide-to="1"></li>
+
+            </ol> -->
+            <!--/.Indicators-->
+
+            <!--Slides-->
+            <div class="carousel-inner" role="listbox">
+
+                <!--First slide-->
+                <div class="carousel-item active">
+
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">മിയോ വീണ്ടും?</h4>
+                                <p class="card-text">അതേ, ദിവ്യ വചനങ്ങളുടെ പ്രകാശം പരത്താൻ കുഞ്ഞു ഹൃദയങ്ങളിലേക്ക് meo
+                                    വീണ്ടുമെത്തുന്നു.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">എന്താണ് MEO HIFZ?</h4>
+                                <p class="card-text">10 വയസിനും 14 വയസിനും ഇടയിലുള്ള ആൺകുട്ടികൾക്കും പെൺകുട്ടികൾക്കും
+                                    വിശുദ്ധ ഖുർആൻ ഹൃദ്യസ്ഥമാക്കാനുള്ള സുവർണാവസരമാണ് meo hifz.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">എങ്ങനെയാണ് ഈ കോഴ്‌സ് നടക്കുക?</h4>
+                                <p class="card-text">റേഡിയോ ഇസ്‌ലാം വഴിയാണ്
+                                    ക്ലാസുകൾ നടക്കുക. ആഴ്ചയിൽ 2 ദിവസം വൈകിട്ട് ഇന്ത്യൻ സമയം 7:30 - 8:30 Radio islam ലൂടെ
+                                    തത്സമയ ക്ലാസുകൾ നൽകുകയും, വാട്സപ് ക്ലാസ്‌റൂമുകൾ വഴി മെന്ററിങ് സാധ്യമാക്കുകയും
+                                    ചെയ്യുന്നു.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">എങ്ങനെയാണ് ഇതിൽ പങ്കെടുക്കുക?</h4>
+                                <p class="card-text">പങ്കെടുക്കന്നതിന് മുൻകൂട്ടി രജിസ്റ്റർ ചെയ്യേണ്ടതാണ്. രജിസ്ട്രേഷൻ
+                                    പൂർത്തിയായാൽ വാട്സപ് ക്ലാസ്‌റൂമിലേക്ക് അഡ്‌മിഷൻ ലഭിക്കും. കോഴ്‌സ് വർക്കുകളും
+                                    നിർദേശങ്ങളും ഇത് വഴിയാണ് ലഭ്യമാക്കുന്നത്.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+                <!--/.First slide-->
+
+                <!--Second slide-->
+                <div class="carousel-item">
+
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">എന്നാണ് കോഴ്‌സ് തുടങ്ങുന്നത്?</h4>
+                                <p class="card-text">ഇപ്പോൾ രജിസ്‌ട്രേഷൻ പ്രവർത്തനങ്ങൾ നടക്കുകയാണ്. 3 മാസം നീണ്ടു
+                                    നിൽക്കുന്ന കോഴ്സിന് 2020 ഒക്ടോബർ 5 ന് തുടക്കം കുറിക്കും.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">എങ്ങനെ രജിസ്റ്റർ ചെയ്യാം?</h4>
+                                <p class="card-text">ഇതോടൊപ്പം നൽകിയ ലിങ്ക് വഴിയാണ് രജിസ്റ്റർ ചെയ്യേണ്ടത്. രജിസ്റ്റർ
+                                    ചെയ്യുന്നവർക്ക് വാട്സപ് വഴി തുടർ നിർദേശങ്ങൾ നൽകുന്നതാണ്.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title"> ഏത് ഭാഗമാണ് പഠിപ്പിക്കുക?</h4>
+                                <p class="card-text">വിശുദ്ധ ഖുർആനിലെ 28 മത്തെ ജുസുഉ ആയ ഹാമീം ജുസുഉ ആണ് സിലബസായി
+                                    നിശ്ചയിച്ചിരിക്കുന്നത്.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3" style="float:left">
+                        <div class="card mb-2">
+                            <div class="card-body">
+                                <h4 class="card-title">ഫീസ് എത്രയാണ് 3 മാസത്തേക്ക് അടക്കേണ്ടത്?</h4>
+                                <p class="card-text">500 രൂപയാണ് മൊത്തം കോഴ്‌സ് ഫീ.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!--/.Second slide-->
+
+
+
+            </div>
+            <!--/.Slides-->
+
+        </div>
+        <!--/.Carousel Wrapper-->
+
+    </section>
