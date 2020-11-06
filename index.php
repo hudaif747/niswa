@@ -158,7 +158,10 @@ require_once('creds.php');
             <div class="row">
                 <div class="col-lg-6 description">
                     <div class="descriptionparallax">
-                        <div class="parallax">
+                        <!-- <div class="parallax">
+                        </div> -->
+                        <div class="parallax1">
+                            <img class="leftpic" src="images/niswaleftpic.jpg">
                         </div>
                     </div>
                     <!-- <div id="description">

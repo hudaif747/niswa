@@ -562,6 +562,15 @@ input {
     width: 100%;
 }
 
+.parallax1 {
+    max-width: 100%;
+}
+
+.leftpic {
+    max-width: 100%;
+}
+
+
 .parallax {
     /* The image used */
     background-image: url("../images/niswaleftpic.jpg");
@@ -829,9 +838,6 @@ input {
     max-width: 100%;
 }
 
-.leftpic {
-    width: 100%;
-}
 
 /* cta button */
 
